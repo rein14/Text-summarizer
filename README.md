@@ -1,3 +1,4 @@
- #Demo: <http://demotick.herokuapp.com/>
- 
-Django ticketing tracks work progress with
+# Text-summarizer
+
+Requirements
+* Sumy
