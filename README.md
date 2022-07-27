@@ -1,4 +1,4 @@
 # Text-summarizer
 
 ##Requirements
-Sumy
+* Sumy
